@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouGreet</string>
+    <string name="choose_a_friend">Choisissez un ami</string>
+    <string name="greeting">Bonjour %1$s !</string>
+    <string name="greet">Saluer</string>
+    <string name="add">Ajouter</string>
+
+    <plurals name="nb_friends">
+        <item quantity="one">Vous avez %1$d ami.e</item>
+        <item quantity="other">Vous avez %1$d ami.e.s</item>
+    </plurals>
+</resources>
